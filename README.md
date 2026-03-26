@@ -3,7 +3,7 @@
 A modern and responsive personal portfolio website to showcase my projects, skills, and experience in Web Development.
 
 ## 🚀 Live Demo
-🔗 [View Portfolio](#)  
+🔗 (https://realamit.netlify.app/)  
 *(Add your deployed link here – Netlify / Vercel / GitHub Pages)*
 
 ---

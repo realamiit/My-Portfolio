@@ -52,7 +52,22 @@ Here are some of the projects featured in this portfolio:
 
 ## 📸 Screenshots
 
-*(Add screenshots here)*
+<img width="1917" height="942" alt="image" src="https://github.com/user-attachments/assets/4220f644-0f48-42b7-a378-a901e5dab33d" />
+
+<img width="1919" height="966" alt="image" src="https://github.com/user-attachments/assets/927014b0-94e3-4641-9704-dd98e93c8144" />
+
+<img width="1919" height="952" alt="image" src="https://github.com/user-attachments/assets/d61b71d2-deb3-4ca4-85a3-4e4735fe1105" />
+
+<img width="1283" height="904" alt="image" src="https://github.com/user-attachments/assets/8faee6c4-d8fa-47ad-9eeb-0b993f72a7e1" />
+<img width="1900" height="936" alt="image" src="https://github.com/user-attachments/assets/e067ec00-5595-4c5d-a5d0-1152f5fc48dd" />
+
+<img width="1893" height="951" alt="image" src="https://github.com/user-attachments/assets/5f2c96aa-4a21-4e73-84b0-89756f39a5d0" />
+
+<img width="1907" height="893" alt="image" src="https://github.com/user-attachments/assets/6281342b-a9ed-46df-a11f-280a3243348d" />
+
+<img width="1918" height="991" alt="image" src="https://github.com/user-attachments/assets/8e9546ef-7523-4781-bbbe-8c0236b8cae1" />
+
+<img width="1911" height="998" alt="image" src="https://github.com/user-attachments/assets/fe7dd326-a769-475c-ae4d-89ad7853a5c3" />
 
 ---
 
